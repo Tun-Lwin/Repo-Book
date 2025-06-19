@@ -3,3 +3,13 @@
 #  https://mirror.kku.ac.th/kali/
 
 #  https://mirror.techlabs.co.kr/kali/
+
+
+How to change repository
+========================
+
+* cat /etc/apt/sources.list
+* nano /etc/apt/sources.list 
+* input other repositories
+* Ctrl+X  Y  Enter
+* Confirm this process
